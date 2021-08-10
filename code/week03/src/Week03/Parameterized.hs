@@ -21,6 +21,7 @@ import           Data.Map             as Map
 import           Data.Text            (Text)
 import           Data.Void            (Void)
 import           GHC.Generics         (Generic)
+
 import           Plutus.Contract
 import           PlutusTx             (Data (..))
 import qualified PlutusTx
